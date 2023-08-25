@@ -1,0 +1,135 @@
+body{
+    font-family: 'Slabo 27px', serif;
+}
+h1{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.sparator{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+/* .box2{
+} */
+.box-100{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.box1-200{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: maroon;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.box2-200{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.box3-200{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.parent1{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(37, 36, 36);
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.parent2{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Slabo 27px', serif;
+}
+.parent3{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    background-color: #f9bf3b;
+    color: black;
+    font-family: 'Slabo 27px', serif;
+    border-radius: 20px;
+}
